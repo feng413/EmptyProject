@@ -8,6 +8,6 @@ Msg.prototype.show = function(){
 };
 
 function showMsg(){
-    var tmpMsg = new Msg("input msg???");
+    var tmpMsg = new Msg("input msg---");
     tmpMsg.show();
 }
